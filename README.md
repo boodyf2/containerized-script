@@ -1,4 +1,4 @@
-### Remove Stop Words and Count words in a text file Script
+# Remove Stop Words and Count words in a text file Script
 
 Containerized a Python script to remove stop words from a paragraph and count the words of the processed text.
 
