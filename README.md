@@ -1,6 +1,6 @@
-### Remove Stop Words and Count words in processed Text Script
+### Remove Stop Words and Count words in a text file Script
 
-A Python script to remove stop words from a paragraph and count the words of the processed text.
+Containerized a Python script to remove stop words from a paragraph and count the words of the processed text.
 
 ### How to build the image?
 
